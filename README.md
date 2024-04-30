@@ -6,6 +6,7 @@ https://drive.google.com/drive/folders/1zyPnplAeBdt93AI6zkutVYxU5_SCP7Yj?usp=dri
 
 - "last.pt" place in models directory
 - "08fd33_4.mp4" place in input_videos directory
+- ai_football_analysis result will be placed in "output_videos" directory
 
 # Overview
 
